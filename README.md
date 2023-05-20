@@ -10,3 +10,6 @@ Key Features:
 •	**News API Integration:** The app fetches data from the NewsAPI service using the request library, allowing user to access top headlines from various news sources.
 
 •	**Dynamic Loading:** The app dynamically loads news items, allowing users to navigate through different articles by clicking on the "Next" and "Prev" buttons.
+
+
+Note: To run the app, make sure to have necessary libraries installed and obtain an API Key from the NewsAPI services
